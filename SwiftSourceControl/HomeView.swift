@@ -12,24 +12,13 @@ struct HomeView: View {
         ZStack {
             
             
-            VStack {
+            HStack {
                 Text("Screen 2")
                 Text("Screen 2")
                 Text("Screen 2")
                 
             }
-            VStack {
-                Text("Screen 2")
-                Text("Screen 2")
-                Text("Screen 2")
-                
-            }
-            VStack {
-                Text("Screen 2")
-                Text("Screen 2")
-                Text("Screen 2")
-                
-            }
+            
             
         }
     }
