@@ -16,7 +16,8 @@ struct HomeView: View {
                 Text("Screen 2")
                 Text("Screen 3")
                 Text("Screen 4")
-                
+                Text("Screen 5")
+                Text("Screen 6")
             }
             .onAppear {
                 // Do Something
